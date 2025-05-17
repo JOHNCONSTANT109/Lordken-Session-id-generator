@@ -59,21 +59,21 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By FEARLESS*
+*_Session Connected By LORDKEN INC*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN ZENITSU CRASH V2 』*
+║ *『 AMAZING YOU'VE CHOSEN MEGA PIXS V1 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com/@BTSMODZ
-║❒ *Owner:* https://wa.me/2348075952205_
-║❒ *Repo:* _https://github.com/Fearless-tech1_
-║❒ *WaGroup:* _https://chat.whatsapp.com/C3GFThC0tIpGaJY9DFUeCK
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x
-║❒ *Plugins:* _https://github.com/Fearless-tech1 
+║❒ *Ytube:* 
+║❒ *Owner:* https://wa.me/2349126325901_
+║❒ *Repo:* _https://github.com/JOHNCONSTANT109_
+║❒ *WaGroup:* _https://chat.whatsapp.com/H9lEvYvejI8KveiV0kGayy
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VbAla4IC1Fu6hCqmJq3R
+║❒ *Plugins:* _https://github.com/JOHNCONSTANT109
 ╚════════════════════════╝
 _____________________________________
 	
